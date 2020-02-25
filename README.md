@@ -1,2 +1,1 @@
-# hello-world
-getting started
+This repository contains hackerrank practise codes
